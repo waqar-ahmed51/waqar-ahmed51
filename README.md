@@ -73,7 +73,8 @@
         <p><a href="https://maidinpakistan.com.pk/" rel="nofollow" target="_blank" >Visit Site</a></p>
         <br>
         <a href="https://maidinpakistan.com.pk/" rel="nofollow">
-            <img src="https://media3.giphy.com/media/AcDAJFt0DScUsXXmGq/giphy.gif" target="_blank" width="100%" alt="Cronofy.tech" data-canonical-src="https://media3.giphy.com/media/AcDAJFt0DScUsXXmGq/giphy.gif" style="max-width:100%;">
+          
+            <img src="https://media2.giphy.com/media/tFSxejL0q6astTETz8/giphy.gif" target="_blank" width="100%" alt="Cronofy.tech" data-canonical-src="https://media2.giphy.com/media/tFSxejL0q6astTETz8/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, PHP, MySql </strong> - Maid in Pakistan - A web app that lets you hire local workers online.</p>
     </td>
