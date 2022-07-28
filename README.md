@@ -6,7 +6,7 @@
 ### <div align="center">I'm Waqar Ahmed, a Software Engineer 👨‍💻 coding since 2014 🚀</div>  
   
 
-*<div align="center">I am proficient in both front-end development and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.</div>*  
+*<div align="center">I am proficient in both front-end development and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, React, Node.Js, and MongoDB. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.</div>*  
   
 
 <br/>  
@@ -73,7 +73,7 @@
         <p><a href="http://www.cronofy.tech/" rel="nofollow">Visit Site</a></p>
         <br>
         <a href="http://www.cronofy.tech/" rel="nofollow">
-            <img src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" width="100%" alt="Cronofy.tech" data-canonical-src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" style="max-width:100%;">
+            <img src="[https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif](https://media3.giphy.com/media/AcDAJFt0DScUsXXmGq/giphy.gif?cid=790b7611a9373644d88640bd9029f94610ffee27fe1fe190&rid=giphy.gif&ct=g)" width="100%" alt="Cronofy.tech" data-canonical-src="https://media0.giphy.com/media/3sbVyKmXxkxvaitZUo/giphy.gif" style="max-width:100%;">
         </a>
         <p><strong>HTML, CSS, Javascript, Bootstrap, Node.js, Express.js, Firebase, &amp; Twitter API </strong> - Cronofy - A web app that lets you schedule your twitter posts.</p>
     </td>
