@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Waqar Ahmed  
+### Hi there 👋, This is Waqar Ahmed  
 
 Here are some ideas to get you started:
 
