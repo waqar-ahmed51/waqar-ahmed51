@@ -1,4 +1,4 @@
-### Hi there 👋, This is Waqar Ahmed  
+### Hi there 👋, This is Waqar Ahmed 👨🏻‍💻
 
 I am a Software Engineer based in Boston, MA. I am proficient in both Frontend development and Backend development. I have extensive knowledge in HTML, CSS, Javascript, Node.Js, MongoDB, and React. I am also a certified IT professional with numerous certifications including an AWS Cloud Solutions Architect certification. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions for your company.
 
