@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="center" style="width: 100%" />
+<img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="center" style="width: 10%" />
 </div>  
   
 
