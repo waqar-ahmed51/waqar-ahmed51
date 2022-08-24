@@ -6,7 +6,7 @@
 ### <div align="center">I'm Waqar Ahmed, a Software Engineer 👨‍💻 coding since 2014 🚀</div>  
   
 
-*<div align="center">I am proficient in both front-end development and Back-end development. I have extensive knowledge in HTML, CSS, Javascript, React, Node.Js, and MongoDB. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions.</div>*  
+*<div align="center">I am proficient in both front-end and back-end development. I have extensive knowledge of modern development tools and technologies. Worked on several projects that required direct collaboration with clients to provide rapid and robust project experience. Four years of teaching experience in software engineering undergraduate courses. I possess strong leadership, analytical, and communication skills. I can adapt to the multicultural environment and work individually, and be integrated as a team member. As a software engineer, I aspire to help bring creative projects to life and demonstrate my commitment to developing world-class software solutions. </div>*  
   
 
 <br/>  
